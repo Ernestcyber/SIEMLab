@@ -2,17 +2,20 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this lab i set up a SIEM using Azure. I first set up a Virtual Machine in Azure and turned off the firewalls on the machine. I then expose the Virtual Machine to the internet so i can see live attacks from hackers all over the world. All attacks are tracked in a log file which is then extracted into Azure Sentinel. Sentinel allows us to plot the live attacks on a world map so we can visually see where these attacks are coming from as well as their severity.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Exposure to:</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Azure Portal</b> 
+- <b>Azure Sentinel</b>
+- <b>Kusto Query Language (KQL)</b>
+- <b>Network Security Groups</b>
 
 <h2>Environments Used </h2>
 
+- <b>Microsoft Azure</b>
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
