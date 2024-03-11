@@ -22,31 +22,83 @@ In this lab i set up a SIEM using Azure. I first set up a Virtual Machine in Azu
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""/>
+ Launch the utility: <br/>
+<img src=""/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src=""/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src=""/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src=""/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src=""/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src=""/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src=""/>
+ Launch the utility: <br/>
+<img src=""/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src=""/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src=""/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src=""/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src=""/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src=""/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src=""/>
 </p>
 
 <!--
