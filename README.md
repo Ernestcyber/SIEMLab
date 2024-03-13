@@ -22,7 +22,7 @@ In this lab i set up a SIEM using Azure. I first set up a Virtual Machine in Azu
 
 <p align="center">
 Launch the utility: <br/>
-<img src=""/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/vjzOOdl" data-context="false" ><a href="//imgur.com/a/vjzOOdl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"/>
 <br />
 <br />
 Select the disk:  <br/>
