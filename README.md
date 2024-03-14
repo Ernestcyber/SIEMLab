@@ -22,7 +22,7 @@ In this lab i set up a SIEM using Azure. I first set up a Virtual Machine in Azu
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/X9ksWuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XJC2A5X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
