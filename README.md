@@ -21,73 +21,60 @@ In this lab i set up a SIEM using Azure. I first set up a Virtual Machine in Azu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Create VM In Azure: <br/>
 <img src="https://i.imgur.com/XJC2A5X.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Allow All in Firefox:  <br/>
 <img src="https://i.imgur.com/VmFCaTK.png" height="80%" width="80%" alt="SIEM Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/ssFHNmQ.png" height="80%" width="80%" alt="SIEM Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
 <img src="https://i.imgur.com/ggnyDte.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Create Log Analytics Workspace: <br/>
+<img src="https://i.imgur.com/ssFHNmQ.png" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Enable Gathering of VM Logs From Security Center In Azure:  <br/>
 <img src="https://i.imgur.com/jUIVcKQ.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Connect Log Analytics to VM:  <br/>
 <img src="https://i.imgur.com/FQ3tVb0.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Setup Azure Sentinel:  <br/>
 <img src="https://i.imgur.com/pXPyMzg.png" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Log Into Azure VM with Remote Desktop:  <br/>
  <img src="https://i.imgur.com/vNsJ1Jr.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Turn Off Windows Firewall for VM:  <br/>
 <img src="https://i.imgur.com/rbdUHTt.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Set Up PowerShell Script to get Geolocation of Logs Using Geolocation API: <br/>
 <img src="https://i.imgur.com/9G4Wymd.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/LfyMlvi.png" height="80%" width="80%" alt="SIEM Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
+Create Custom Log in Log Analytics Workspace and Import Our VM Logs:  <br/>
 <img src="https://i.imgur.com/GSn8XHW.png" height="80%" width="80%" alt="SIEM Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
 <img src="https://i.imgur.com/qkH2Nwz.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Create Customs Fields to Extract to Be Extracted From Imported Logs:  <br/>
 <img src="https://i.imgur.com/q9NOR4m.png" height="80%" width="80%" alt="SIEM Steps"/>
- <img src="https://i.imgur.com/WQQWBKh.png" height="80%" width="80%" alt="SIEM Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
+<img src="https://i.imgur.com/WQQWBKh.png" height="80%" width="80%" alt="SIEM Steps"/>
 <img src="https://i.imgur.com/AJSXBCB.png" height="80%" width="80%" alt="SIEM Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
 <img src="https://i.imgur.com/zGCiEFp.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Setup Map in Sentinel With Latitude and Longitude:  <br/>
 <img src="https://i.imgur.com/iOxjqr8.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Live Map Showing All Attacks And Their Locations:  <br/>
 <img src="https://i.imgur.com/SFsL8iE.png" height="80%" width="80%" alt="SIEM Steps"/>
 </p>
 
